@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-  height: 20vh;
+  height: 70vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -42,7 +42,7 @@ body {
     background-color: #191913;
     color: #fff;
     border-radius: 1rem;
-    border: none;
+    border: none; 
 }
 
 #new-btn {
